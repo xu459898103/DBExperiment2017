@@ -50,7 +50,6 @@ public class LoginServlet extends HttpServlet {
 			} else if ("admin".equals(id)) {
 				path = "AdminHome.jsp";
 				request.getRequestDispatcher(path).forward(request, response);
-				return;
 			}else {
 				path = "Login.jsp";
 				errors.add("错误的用户ID及密码！");
