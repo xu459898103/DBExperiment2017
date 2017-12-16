@@ -34,10 +34,10 @@ body {
 			<div class="collapse navbar-collapse" id="example-navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li class="button">
-						<a href="jskb.jsp" target="fy1"> 查看课表 </a>
+						<a href="iframe/teacher/jskb.jsp" target="fy1"> 查看课表 </a>
 					</li>
 					<li class="button">
-						<a href="jskcxx.jsp" target="fy1"> 查看课程信息</a>
+						<a href="iframe/teacher/jskcxx.jsp" target="fy1"> 查看课程信息</a>
 					</li>
 					<li>
 						<form class="navbar-form navbar-left" role="search">
