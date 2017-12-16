@@ -3386,3 +3386,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2017-12-16 19:38:25.974
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jst.server.core 4 0 2017-12-16 20:59:51.489
+!MESSAGE Could not launch in profiling mode because no profilers are configured.
