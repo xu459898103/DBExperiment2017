@@ -20,7 +20,7 @@ body {
 </style>
 </head>
 <body>
-	<nav class="navbar navbar-default " role="navigation">
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -52,9 +52,10 @@ body {
 		</div>
 
 	</nav>
+	<marquee><font size=+3 color=red>Hello, World</font></marquee>
 	<div style="height: 100%">
-		<iframe id="fy1" name="fy1" src="iframe/Info.jsp" width="80%" height="100%"></iframe>
-		<iframe id="fy2" name="fy2" src="iframe/Info1.jsp" width="20%" height="100%" align="right"></iframe>
+		<iframe id="fy1" name="fy1" src="iframe/Info.jsp" width="80%" height="90%"></iframe>
+		<iframe id="fy2" name="fy2" src="iframe/Info1.jsp" width="20%" height="90%" align="right"></iframe>
 	</div>
 
 </body>
